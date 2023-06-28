@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-solution-xdkWmm76zZ)
 - Live Site URL: [Live site](https://single-price-grid-component-coral-three.vercel.app/)
 
 ## My process
