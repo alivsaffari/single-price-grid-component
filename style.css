@@ -101,7 +101,7 @@ body {
     font-weight: 700;
     border: none;
     border-radius: 5px;
-    box-shadow: 0 5px 1rem 0.1px rgba(0,0,0,0.2)
+    box-shadow: 0 5px 1rem 0.1px rgba(0,0,0,0.2);
 }
 
 .card_footer {
@@ -133,7 +133,7 @@ body {
 
 @media only screen and (min-width: 1440px) {
     .card {
-        margin: auto 403px;
+        max-width: 634px;
     }
     .card_header > h1 {
         margin-bottom: 1.5rem;
